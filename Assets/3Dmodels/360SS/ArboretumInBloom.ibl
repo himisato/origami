@@ -1,0 +1,43 @@
+[Header]
+ICOfile = "ArboretumInBloom_Thumb.jpg"
+Name = "Arboretum In Bloom"
+Author = "Alex Hart"
+Location = "Arnold Arboretum, Boston"
+Comment = "Clear sunny day under a tree, includes extra COOKIE"
+GEOlat = 42.307177
+GEOlong = -71.121189
+Link = "http://eahart.com"
+Date = "2010:04:04"
+Time = "10:00:00"
+Height = 0.400000
+
+[Background]
+BGfile = "ArboretumInBloom_Bg.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 4000
+
+[Enviroment]
+EVfile = "ArboretumInBloom_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.000000
+EVgamma = 1.000000
+
+[Reflection]
+REFfile = "ArboretumInBloom_Ref.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 1024
+REFmulti = 1.000000
+REFgamma = 1.000000
+
+[Sun]
+SUNcolor = 210,231,255
+SUNmulti = 1.000000
+SUNu = 0.768000
+SUNv = 0.232000

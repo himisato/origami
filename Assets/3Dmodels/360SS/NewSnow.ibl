@@ -1,0 +1,42 @@
+[Header]
+ICOfile = "SnowPano_4k_Thumb.jpg"
+Name = "New Snow"
+Author = "Alex Hart"
+Location = "Suburban Street"
+Comment = "fresh snow, clear sky"
+GEOlat = 42.354199
+GEOlong = -71.223421
+Link = "http://eahart.com"
+
+[Background]
+BGfile = "Snow_Bg.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 4000
+
+[Enviroment]
+EVfile = "SnowPano_4k_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.000000
+EVgamma = 1.000000
+
+[Reflection]
+REFfile = "SnowPano_4k_Ref.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 1024
+REFmulti = 1.000000
+REFgamma = 1.000000
+
+[Sun]
+SUNcolor = 203,219,255
+SUNmulti = 1.000000
+SUNu = 0.290000
+SUNv = 0.420000
+
+  
