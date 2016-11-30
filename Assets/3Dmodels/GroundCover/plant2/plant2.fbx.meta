@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: f8d011b713becc9488b82b59dbcf5f70
+timeCreated: 1442401559
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: branch.001
+    100004: branch.002
+    100006: branch.003
+    100008: branch.004
+    100010: branch.005
+    100012: branch.006
+    100014: branch.007
+    100016: branch.008
+    100018: branch.009
+    100020: branch.010
+    100022: branch.011
+    100024: branch.012
+    100026: branch.013
+    100028: branch.014
+    100030: branch.015
+    100032: branch.023
+    100034: branch.025
+    100036: branch.028
+    100038: branch.030
+    100040: branch.033
+    100042: branch.037
+    100044: branch.039
+    100046: branch.041
+    100048: branch.042
+    100050: branch.043
+    100052: branch.044
+    100054: trunk
+    400000: //RootNode
+    400002: branch.001
+    400004: branch.002
+    400006: branch.003
+    400008: branch.004
+    400010: branch.005
+    400012: branch.006
+    400014: branch.007
+    400016: branch.008
+    400018: branch.009
+    400020: branch.010
+    400022: branch.011
+    400024: branch.012
+    400026: branch.013
+    400028: branch.014
+    400030: branch.015
+    400032: branch.023
+    400034: branch.025
+    400036: branch.028
+    400038: branch.030
+    400040: branch.033
+    400042: branch.037
+    400044: branch.039
+    400046: branch.041
+    400048: branch.042
+    400050: branch.043
+    400052: branch.044
+    400054: trunk
+    2300000: //RootNode
+    2300002: branch.001
+    2300004: branch.002
+    2300006: branch.003
+    2300008: branch.004
+    2300010: branch.005
+    2300012: branch.006
+    2300014: branch.007
+    2300016: branch.008
+    2300018: branch.009
+    2300020: branch.010
+    2300022: branch.011
+    2300024: branch.012
+    2300026: branch.013
+    2300028: branch.014
+    2300030: branch.015
+    2300032: branch.023
+    2300034: branch.025
+    2300036: branch.028
+    2300038: branch.030
+    2300040: branch.033
+    2300042: branch.037
+    2300044: branch.039
+    2300046: branch.041
+    2300048: branch.042
+    2300050: branch.043
+    2300052: branch.044
+    3300000: //RootNode
+    3300002: branch.001
+    3300004: branch.002
+    3300006: branch.003
+    3300008: branch.004
+    3300010: branch.005
+    3300012: branch.006
+    3300014: branch.007
+    3300016: branch.008
+    3300018: branch.009
+    3300020: branch.010
+    3300022: branch.011
+    3300024: branch.012
+    3300026: branch.013
+    3300028: branch.014
+    3300030: branch.015
+    3300032: branch.023
+    3300034: branch.025
+    3300036: branch.028
+    3300038: branch.030
+    3300040: branch.033
+    3300042: branch.037
+    3300044: branch.039
+    3300046: branch.041
+    3300048: branch.042
+    3300050: branch.043
+    3300052: branch.044
+    4300000: branch.044
+    4300002: branch.043
+    4300004: branch.042
+    4300006: branch.041
+    4300008: branch.039
+    4300010: branch.037
+    4300012: branch.033
+    4300014: branch.030
+    4300016: branch.028
+    4300018: branch.025
+    4300020: branch.001
+    4300022: branch.023
+    4300024: branch.002
+    4300026: branch.003
+    4300028: branch.004
+    4300030: branch.005
+    4300032: branch.006
+    4300034: branch.007
+    4300036: branch.008
+    4300038: branch.009
+    4300040: branch.010
+    4300042: branch.011
+    4300044: branch.012
+    4300046: branch.013
+    4300048: branch.014
+    4300050: branch.015
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

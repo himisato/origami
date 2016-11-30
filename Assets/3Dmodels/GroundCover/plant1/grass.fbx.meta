@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e52284ee8773d6d46aedab97438c9ce4
+timeCreated: 1442401558
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: branch.001_xt25_xp27
+    100004: branch.002_xt27_xp25
+    100006: branch.003_xt25_xp27
+    100008: branch.004_xt25_xp27
+    100010: branch.005_xt29_xp27
+    100012: branch.006_xt29_xp27
+    100014: branch.007_xt25_xp29
+    100016: branch.008_xt27_xp25
+    100018: branch.009_xt27_xp27
+    100020: branch.010_xt27_xp29
+    100022: branch.011_xt27_xp29
+    100024: branch_xt25_xp27
+    100026: trunk
+    400000: //RootNode
+    400002: branch.001_xt25_xp27
+    400004: branch.002_xt27_xp25
+    400006: branch.003_xt25_xp27
+    400008: branch.004_xt25_xp27
+    400010: branch.005_xt29_xp27
+    400012: branch.006_xt29_xp27
+    400014: branch.007_xt25_xp29
+    400016: branch.008_xt27_xp25
+    400018: branch.009_xt27_xp27
+    400020: branch.010_xt27_xp29
+    400022: branch.011_xt27_xp29
+    400024: branch_xt25_xp27
+    400026: trunk
+    2300000: //RootNode
+    2300002: branch.001_xt25_xp27
+    2300004: branch.002_xt27_xp25
+    2300006: branch.003_xt25_xp27
+    2300008: branch.004_xt25_xp27
+    2300010: branch.005_xt29_xp27
+    2300012: branch.006_xt29_xp27
+    2300014: branch.007_xt25_xp29
+    2300016: branch.008_xt27_xp25
+    2300018: branch.009_xt27_xp27
+    2300020: branch.010_xt27_xp29
+    2300022: branch.011_xt27_xp29
+    2300024: branch_xt25_xp27
+    3300000: //RootNode
+    3300002: branch.001_xt25_xp27
+    3300004: branch.002_xt27_xp25
+    3300006: branch.003_xt25_xp27
+    3300008: branch.004_xt25_xp27
+    3300010: branch.005_xt29_xp27
+    3300012: branch.006_xt29_xp27
+    3300014: branch.007_xt25_xp29
+    3300016: branch.008_xt27_xp25
+    3300018: branch.009_xt27_xp27
+    3300020: branch.010_xt27_xp29
+    3300022: branch.011_xt27_xp29
+    3300024: branch_xt25_xp27
+    4300000: branch.055
+    4300002: branch.054
+    4300004: branch.053
+    4300006: branch.052
+    4300008: branch.051
+    4300010: branch.050
+    4300012: branch.049
+    4300014: branch.048
+    4300016: branch.047
+    4300018: branch.046
+    4300020: branch.020
+    4300022: branch.022
+    4300024: branch.055_xt15_xp19
+    4300026: branch.054_xt19_xp27
+    4300028: branch.053_xt27_xp29
+    4300030: branch.052_xt23_xp17
+    4300032: branch.051_xt19_xp23
+    4300034: branch.050_xt27_xp19
+    4300036: branch.049_xt17_xp25
+    4300038: branch.048_xt21_xp25
+    4300040: branch.047_xt21_xp27
+    4300042: branch.046_xt25_xp17
+    4300044: branch.020_xt25_xp21
+    4300046: branch.022_xt15_xp19
+    4300048: branch.001_xt25_xp27
+    4300050: branch_xt25_xp27
+    4300052: branch.002_xt27_xp25
+    4300054: branch.003_xt25_xp27
+    4300056: branch.004_xt25_xp27
+    4300058: branch.005_xt29_xp27
+    4300060: branch.006_xt29_xp27
+    4300062: branch.007_xt25_xp29
+    4300064: branch.008_xt27_xp25
+    4300066: branch.009_xt27_xp27
+    4300068: branch.010_xt27_xp29
+    4300070: branch.011_xt27_xp29
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
